@@ -64,4 +64,4 @@
 
 ## 支持
 
-如需支持和功能请求，请联系插件作者：[your-email@example.com](mailto:your-email@example.com)。
+如需支持和功能请求，请联系插件作者：[jojhaaa@gmail.com](jojhaaa@gmail.com)。
