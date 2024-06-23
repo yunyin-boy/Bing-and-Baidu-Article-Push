@@ -64,4 +64,4 @@ This plugin is licensed under the GPL v2.0. See the [LICENSE](LICENSE) file for 
 
 ## Support
 
-For support and feature requests, please contact the plugin author at [your-email@example.com](mailto:your-email@example.com).
+For support and feature requests, please contact the plugin author at [jojhaaa@gmail.com](jojhaaa@gmail.com).
