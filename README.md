@@ -1,5 +1,5 @@
 # Bing and Baidu Article Push
- [中文介绍](README-zh).
+ [中文介绍](README-zh.md).
 - Automatically push articles to Bing and Baidu with options for manual push, logging, and viewing content submission quota. This plugin allows you to manually push articles to Bing and Baidu, set scheduled pushes, and manage API keys and site URLs from the WordPress admin panel.
 
 ## Features
